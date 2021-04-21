@@ -90,6 +90,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+google_analytics:
+  tracking_id: UA-110993942-1
 theme: next
 scheme: Pisces
 cache:
